@@ -6,7 +6,7 @@ An extremely simple responsive-first blog built in ASP.NET, C#, SQLServer, Razor
 
 http://imgur.com/a/srFFZ
 
-Steps 
+Steps <br/>
 1. Create/Open an existing SQL Server Database. <br/>
 2. When running the following .SQLs please make sure to change USE [####] to your DB, if you've already connected then this can be removed.<br/>
 3. Run Create Table Posts.sql<br/>
